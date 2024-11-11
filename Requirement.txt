@@ -1,0 +1,9 @@
+1. Victims should be able to raise a case.
+    a. Add details
+    b. Upload attachment.
+2. Accused should be able to add their side of details.
+3. Judicial Officials should be able to assign an Advocate.
+4. An Advocate should not be allowed to assign more than 3 ACTIVE cases at any given time in the system.
+5. The system should have a global search (for every user) to search a case by Case Number, Victim Name, Mobile, Advocate, Accursed Name, Mobile.
+6.
+Continuing more on it tomorrow.......
